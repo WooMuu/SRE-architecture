@@ -36,6 +36,8 @@
 
 > 详细版本见 `docs/architecture.md`
 
+- 面向你提出的“Prompt 运维 + 故障自愈 + DevOps + 全栈监控”需求，可参考 `docs/ai-devops-blueprint.md`。
+
 ```mermaid
 flowchart LR
     U[值班工程师] --> I[ChatOps/CLI 助手]
